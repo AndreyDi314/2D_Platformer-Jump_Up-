@@ -1,0 +1,4 @@
+repository "Platformer 2D@Amidic@cloud"
+  path "/"
+    br "/main"
+    co "/main"

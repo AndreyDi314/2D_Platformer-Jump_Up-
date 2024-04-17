@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Sand
+  - Saw
+  - Music
+  - Ground
+  - GameUI
+  - Platform
+  - Destroy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround
+  - Water
+  - UI
+  - Ground
+  - Ice
+  - Walls
+  - Sand
+  - Player
+  - Finish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1916547645
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 3563751419
+    locked: 0
+  - name: Saw
+    uniqueID: 2590084209
+    locked: 0
+  - name: Wall
+    uniqueID: 3456718973
+    locked: 0
+  - name: Player
+    uniqueID: 3602901065
+    locked: 0
+  - name: UI
+    uniqueID: 2300188447
+    locked: 0
+  - name: Music
+    uniqueID: 714737945
+    locked: 0
